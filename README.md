@@ -2,7 +2,7 @@
 
 ### Benchmarking System for Ethereum Smart Contracts
 
-"The benchmarking system is to allow measuring the execution time of Ethereum smart contracts. It covers contract creation and contract invocation. It is worth noting both contract creation and invocation are made by submitting a transaction to the Ethereum network. It has been developed to run on top of Pyethereum client; and we might extend it in the future to support other clients like Go." For more details we refer the reader to our paper "Performance benchmarking of smart contracts to assess miner incentives in Ethereum".
+"The benchmarking system is to allow measuring the execution time of Ethereum smart contracts. It covers contract creation and contract invocation. It is worth noting both contract creation and invocation are made by submitting a transaction to the Ethereum network. We developed the benchmarking system to be run on top of Pyethereum client; and we might extend it in the future to support other clients like Go." For more details we refer the reader to our paper "Performance benchmarking of smart contracts to assess miner incentives in Ethereum".
 
 #### Requirements:
 
