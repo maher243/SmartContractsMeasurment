@@ -83,7 +83,7 @@ def profile_vm_test(params, _):
 
     df = pd.DataFrame(result)
     df.columns = ['TX', 'Type','Used gas', 'minTime', 'maxTime', 'avgTime', 'medTime', 'stdevTime', 'CI(95%)']
-    writer = pd.ExcelWriter('tmaher.xlsx', engine='xlsxwriter')
+    writer = pd.ExcelWriter('BenchmarkResults8U.xlsx', engine='xlsxwriter')
     df.to_excel(writer, sheet_name='Set8')
     writer.save()
 
