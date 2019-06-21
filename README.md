@@ -1,5 +1,8 @@
 # SmartContractsBenchmarking
+
 Benchmarking System for Ethereum Smart Contracts
+
+"The benchmarking system is to allow measuring the execution time of Ethereum smart contracts. It covers contract creation and contract invocation. It has been developed to run on top of Pyethereum client; and we might extend it in the future to support other clients like Go." For more details we refer the reader to our paper "Performance benchmarking of smart contracts to assess miner incentives in Ethereum".
 
 Requirements:
 
