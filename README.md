@@ -9,4 +9,4 @@ Requirements:
 
 To run the code: 
 
-Type this command: python contractsBenchSystem.py state.json
+Type this command: python contractBenchSystem.py state.json
