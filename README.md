@@ -6,13 +6,16 @@
 
 #### Requirements:
 
+* Install Python version 3.0 and above.
+
 * Install PyEthereum client in your local machine
 
 * Install All python package required by the benchmarking system such as pandas, numpy, scipy, statistics etc
 
+
 #### To run the code, type the following command: 
 
-> python contractBenchSystem.py state.json
+> python MeasurmentSystem.py state.json
 
 #### Comments:
 * The data set and final results files are big and cannot be uploaded to Github. Instead, we upload a sample data set of 50K transactions (DataSet8.xlsx) and its results (DataSet8Results.xlsx). So, you can try the benchmark system and obtain the results.
