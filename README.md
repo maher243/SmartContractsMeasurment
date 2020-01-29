@@ -2,7 +2,7 @@
 
 ### A Measurment System for Ethereum Smart Contracts
 
-"The measurment system is to allow measuring the execution time (CPU Time) of Ethereum smart contracts. It measures the CPU Time for both contract-creation and contract-execution transactions. We developed the measurment system to be run on top of **Pyethereum client**; and we might extend it in the future to support other clients like Go." For more details we refer the reader to our paper **"Performance benchmarking of smart contracts to assess miner incentives in Ethereum"**.
+"The measurment system is to allow measuring the execution time (CPU Time) of Ethereum smart contracts. It measures the CPU Time for both contract-creation and contract-execution transactions. We developed the measurment system to be run on top of **Pyethereum client**; and we might extend it in the future to support other clients like Go."
 
 #### Requirements:
 
