@@ -8,7 +8,7 @@
 
 * Install PyEthereum client in your local machine
 
-* Install All python package required by the benchmarking system such as pandas etc
+* Install All python package required by the benchmarking system such as pandas, numpy, scipy, statistics etc
 
 #### To run the code, type the following command: 
 
